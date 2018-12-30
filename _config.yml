@@ -80,4 +80,4 @@ theme: next
 deploy:
   type: git
   repository: git@github.com:1206633001/1206633001.github.io.git
-  branch: blog
+  branch: master
